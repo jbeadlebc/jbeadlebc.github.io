@@ -33,7 +33,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
     			{image : 'female_3.jpg'}, 
     			{image : 'male_1.jpg'}, 
     			{image : 'male_2.jpg'}, 
-    			{image : 'male3.jpg'}			], 
+    			{image : 'male_3.jpg'}			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
