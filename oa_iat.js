@@ -1,11 +1,5 @@
 define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
-	
-		var iatObj =
-		{
-			fullscreen:true, //Should we show the task in full screen? A Qualtrics-only feature because in the usual Minno, we can go full-screen right at the beginning of the study.
-			
-		},
 
 	return iatExtension({
 		category1 : {
