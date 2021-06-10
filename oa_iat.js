@@ -1,5 +1,6 @@
 define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(APIConstructor, iatExtension){
      var API = new APIConstructor();
+     var iatObj = fullscreen:false();
 
  	return iatExtension({
  		category1 : {
