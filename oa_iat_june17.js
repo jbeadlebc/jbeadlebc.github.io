@@ -39,8 +39,8 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://jbeadlebc.github.io/pictures_j17/',
-			fullscreen: true
-		}
+			image : 'https://jbeadlebc.github.io/pictures_j17/'
+		},
+		fullscreen:true,
 	});
 });
