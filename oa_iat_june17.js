@@ -44,8 +44,11 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 		fullscreen:true
 		},
 			    
-		leftKeyText :'Press "E" for',
-		keysCss : {'font-size':'0.9em', 'font-family':'courier', color:'#000000'},
+		leftKeyText :'Press "E" for'
+		},
+       
+		keysCss : {'font-size':'0.9em', 'font-family':'courier', color:'#000000'}
+		
 		
 	});
 });
