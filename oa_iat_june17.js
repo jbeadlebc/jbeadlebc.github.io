@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/jbeadlebc/jbeadlebc.github.io/blob/main/oa_iat.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://jbeadlebc.github.io/iat_long.js'], function(APIConstructor, iatExtension){
      var API = new APIConstructor();
 
  	return iatExtension({
