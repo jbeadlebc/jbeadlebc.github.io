@@ -40,6 +40,13 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 
  		base_url : {//Where are your images at?
  			image : 'https://jbeadlebc.github.io/pictures_j17/'
- 		} 
+ 		}, 
+           //Text and style for key instructions displayed about the category labels.
+          leftKeyText : 'Press "E" for',
+          rightKeyText : 'Press "I" for',
+          keysCss : {'font-size':'3.8em', 'font-family':'courier', color:'#000000'}, //{'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
+          //Text and style for the separator between the top and bottom category labels.
+          orText : 'or',
+          orCss : {'font-size':'2.8em', color:'#000000'} // {'font-size':'1.8em', color:'#000000'}
  	});
  });
