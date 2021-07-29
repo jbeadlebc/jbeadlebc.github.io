@@ -155,7 +155,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//Text and style for key instructions displayed about the category labels.
 			leftKeyText : 'Press "E" for', 
 			rightKeyText : 'Press "I" for', 
-			keysCss : {'font-size’:’1.8em', 'font-family':'courier', color:'#000000'},
+			keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 			//Text and style for the separator between the top and bottom category labels.
 			orText : 'or', 
 			orCss : {'font-size':'1.8em', color:'#000000'},
@@ -820,7 +820,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			if (!params.isInst && params.remindError)
 			{
 				layout.push({
-					location:{bottom:1}, css: {color:piCurrent.fontColor,'font-size’:’1.8em'},
+					location:{bottom:1}, css: {color:piCurrent.fontColor,'font-size':'1em'},
 					media : {html: isTouch ? params.remindErrorTextTouch : params.remindErrorText}
 				});
 			}
