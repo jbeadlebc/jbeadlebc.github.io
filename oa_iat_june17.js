@@ -48,8 +48,6 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
           //Text and style for the separator between the top and bottom category labels.
           orText : 'or',
           orCss : {'font-size':'1.8em', color:'#000000'} // {'font-size':'1.8em', color:'#000000'}
-          
-          }, 
           fullscreen:true
  	});
  });
