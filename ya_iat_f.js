@@ -15,7 +15,7 @@ define(['pipAPI', 'https://jbeadlebc.github.io/iat_long.js'], function(APIConstr
      			{image : 'YA3F_HA.jpg'}, 
      			{image : 'YA1M_HA.jpg'}, 
      			{image : 'YA2M_HA.jpg'}, 
-     			{image : 'YA3M_HA.jpg'}
+     			{image : 'YA3M_HA1.jpg'}
  			], 
  			//Stimulus css (style)
  			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -33,7 +33,7 @@ define(['pipAPI', 'https://jbeadlebc.github.io/iat_long.js'], function(APIConstr
      			{image : 'YA3F.jpg'}, 
      			{image : 'YA1M.jpg'}, 
      			{image : 'YA2M.jpg'}, 
-     			{image : 'YA3M.jpg'}			], 
+     			{image : 'YA3M1.jpg'}			], 
  			//Stimulus css
  			stimulusCss : {color:'#31940F','font-size':'1.8em'}
  		},	
