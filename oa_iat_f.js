@@ -39,7 +39,7 @@ define(['pipAPI', 'https://jbeadlebc.github.io/iat_long.js'], function(APIConstr
  		},	
 
  		base_url : {//Where are your images at?
- 			image : 'https://jbeadlebc.github.io/pictures_j17/'
+ 			image : 'https://jbeadlebc.github.io/oa_iat_pics/'
  		}
           
  	});
