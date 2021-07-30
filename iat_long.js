@@ -820,7 +820,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			if (!params.isInst && params.remindError)
 			{
 				layout.push({
-					location:{bottom:1}, css: {color:piCurrent.fontColor,'font-size':'1.8em'},
+					location:{bottom:1}, css: {color:piCurrent.fontColor,'font-size':'1.4em'},
 					media : {html: isTouch ? params.remindErrorTextTouch : params.remindErrorText}
 				});
 			}
