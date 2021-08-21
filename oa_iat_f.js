@@ -13,7 +13,7 @@ define(['pipAPI', 'https://jbeadlebc.github.io/iat_long.js'], function(APIConstr
      		    {image : 'OA1F_HA.jpg'}, 
      			{image : 'OA2F_HA.jpg'}, 
      			{image : 'OA3F_HA.jpg'}, 
-     			{image : 'OA1M_HA.jpg'}, 
+     			{image : 'OA1M_HA_new.jpg'}, 
      			{image : 'OA2M_HA.jpg'}, 
      			{image : 'OA3M_HA.jpg'}
  			], 
